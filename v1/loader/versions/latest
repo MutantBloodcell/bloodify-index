@@ -1,0 +1,17 @@
+{
+  "error": "",
+  "payload": {
+    "id": 1,
+    "version": "6.0.0-alpha.1",
+    "tag": "v1.0.101",
+    "commit_hash": "e7fc1a2",
+    "prerelease": false,
+    "created_at": "2026-11-13T20:00:00Z",
+    "updated_at": "2026-11-13T20:00:00Z",
+    "download_count": 0,
+    "downloads": {
+      "android64": "https://github.com/MutantBloodcell/bloodify/releases/download/v1.0.101/geode-android64.zip",
+      "android32": "https://github.com/MutantBloodcell/bloodify/releases/download/v1.0.101/geode-android32.zip"
+    }
+  }
+}
